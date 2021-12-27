@@ -1,0 +1,7 @@
+this is some text
+
+the line above is blank
+this is some other text, below are 2 blank lines
+
+
+goodbye!
